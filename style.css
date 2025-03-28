@@ -1,0 +1,11 @@
+.container{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    background-color: red;
+}
+.p{
+    font-size: 18px;
+    background-color: green;
+    color: white;
+}
